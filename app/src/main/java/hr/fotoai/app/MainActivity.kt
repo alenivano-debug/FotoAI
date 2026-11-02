@@ -1,4 +1,3 @@
-
 package hr.fotoai.app
 
 import android.os.Bundle
